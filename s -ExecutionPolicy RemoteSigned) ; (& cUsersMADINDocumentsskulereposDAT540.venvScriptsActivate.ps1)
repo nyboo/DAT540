@@ -1,0 +1,72 @@
+[33mcommit 9f9802e06d3cef14541ca15104563c80b406ae40[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Miahuibeck <280036@uis.no>
+Date:   Fri Nov 6 15:22:03 2026 +0100
+
+    Update report with latest preprocessing and feature selection
+
+[33mcommit dd32fe3b9578c05b5179175033e2eed526ee3d0c[m
+Author: Miahuibeck <280036@uis.no>
+Date:   Fri Nov 6 14:44:46 2026 +0100
+
+    Update report notebook
+
+[33mcommit 1f755588b4311e56cf9264d22624baf4d1233631[m
+Author: Miahuibeck <280036@uis.no>
+Date:   Fri Nov 6 14:12:37 2026 +0100
+
+    Restore latest notebook changes
+
+[33mcommit 4d82481c0c557fadfb41ed5cb04c98cce0e57177[m
+Merge: 6f4c48c 63ffa2f
+Author: Miahuibeck <280036@uis.no>
+Date:   Fri Nov 6 14:10:42 2026 +0100
+
+    Merge origin/main into main
+
+[33mcommit 6f4c48c5287a4866b80b8dfbc4a0aaaf73f0e1c8[m
+Author: Miahuibeck <280036@uis.no>
+Date:   Fri Nov 6 12:51:36 2026 +0100
+
+    ny oppdatering 1
+
+[33mcommit 63ffa2f2d49acd013678770bca96c8a70b9d83c8[m
+Author: nyboo <madilnybo@gmail.com>
+Date:   Fri Nov 6 12:48:00 2026 +0100
+
+    feature selection and preprocessingf
+
+[33mcommit f4e3fb86f12ac7cc3c3da896a1a59ad5b8164087[m
+Author: nyboo <madilnybo@gmail.com>
+Date:   Fri Nov 6 11:55:31 2026 +0100
+
+    feature selection
+
+[33mcommit 4a3a8b3ad2fecb2d4ee555afd799efca29cf69f9[m
+Author: nyboo <madilnybo@gmail.com>
+Date:   Fri Nov 6 11:50:05 2026 +0100
+
+    Update analysis notebook
+
+[33mcommit a46987659df4218f9646aa83c8168d85722190a2[m
+Author: nyboo <madilnybo@gmail.com>
+Date:   Thu Nov 5 21:47:39 2026 +0100
+
+    skifta ut obesity verdien, og splitta data i trening og test data;P
+
+[33mcommit abc37887f06936c998f168d19f78b155bc6dd296[m
+Author: Miahuibeck <280036@uis.no>
+Date:   Thu Nov 5 19:12:46 2026 +0100
+
+    ny oppådatering
+
+[33mcommit e16ee9a046d46a6f0b393f5027d42c1d1a9961fb[m
+Author: Miahuibeck <280036@uis.no>
+Date:   Wed Nov 4 17:02:07 2026 +0100
+
+    La inn filene
+
+[33mcommit efae0219e5c1a64288e2c7c7406efe4a7abed757[m
+Author: Miahuibeck <280036@uis.no>
+Date:   Wed Nov 4 16:55:53 2026 +0100
+
+    Prøve å hjelpe mia
